@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\bin\Debug\YgsPuanHesaplama.exe.config
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\bin\Debug\YgsPuanHesaplama.exe
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\bin\Debug\YgsPuanHesaplama.pdb
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\obj\Debug\YgsPuanHesaplama.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\obj\Debug\YgsPuanHesaplama.Form1.resources
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\obj\Debug\YgsPuanHesaplama.Properties.Resources.resources
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\obj\Debug\YgsPuanHesaplama.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\obj\Debug\YgsPuanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\obj\Debug\YgsPuanHesaplama.exe
+C:\Users\Eren\source\repos\YgsPuanHesaplama\YgsPuanHesaplama\obj\Debug\YgsPuanHesaplama.pdb
